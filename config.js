@@ -16,7 +16,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'The CRVWWDA Family',
-            image: './path/to/image/source.png',
+            image: 'https://raw.githubusercontent.com/Water-Works-Development-Agency-in-Kenya/Central-Rift-Valley/main/images/CRVWWDA%20Family.jpg',
             description: ' The Central Rift Valley Water Works Development Agency (CRVWWDA) is one of the nine (9) Water Works Development Agencies in Kenya and was formed under Section 65 of the Water Act, 2016. It was established through Kenya Gazette Notice No. 4 dated 7thFebruary 2020. The region served by the Agency comprise of the five Counties of Nakuru, Narok, Laikipia, Baringo and Nyandarua.Led by the Chairman Bridg. (Rtd) Stephen Njunge Kihu EBS, with other Board of Directors and staff members at the Agency Headquaters.',
             location: {
                 center: [37.91655, 0.12274],
