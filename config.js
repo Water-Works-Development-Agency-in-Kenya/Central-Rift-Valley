@@ -159,8 +159,8 @@ var config = {
             id: '8',
             alignment: 'right',
             hidden: false,
-            //title: '7. SaimoSoi Dam Water Supply Project',
-            image: './path/to/image/source.png',
+            title: '7. SaimoSoi Dam Water Supply Project',
+            //image: './path/to/image/source.png',
             description: 'Work progress is at 90%. The Intake weir, 25m3 sump, 2No 10m3 BPT, is completepending painting and branding with fencing pending. The 2.1km 2” G.I gravity main complete pending construction of anchor and thrust blocks. 100m3 masonry tank complete. The 1.1km 2” UPVC pipeline laying is ongoing. The project is expected to serve a population of approximately 2,000 people.',
             location: {
                 center: [35.94935, 0.67906],
@@ -387,7 +387,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'BARINGO:',
-            //image: './path/to/image/source.png',
+            image: 'https://raw.githubusercontent.com/Water-Works-Development-Agency-in-Kenya/Central-Rift-Valley/main/images/Baringo%20construction%20of%20civil%20works%20.png',
             description: 'BARINGO: The project component involves Equipping and civil works for 5No. Boreholes (Kichingiri, Mugurin, Ndambul, Kokore & Maron). The scope of works involves the installation of pump and solar power for 3 boreholes and grid power for 2 boreholes, Construction of pump house, water kiosks, cattle troughs and laying of pipes. Equipping for 5No boreholes is complete. The construction of civil works for Kichingiri – 100%, Ndambul- 100% and operational, Mugurin- 60%, Kokore – 90%, Maron – 90%.',
             location: {
                 center: [36.00930, 0.72770],
@@ -425,7 +425,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'NAROK:',
-            //image: './path/to/image/source.png',
+            image: 'https://raw.githubusercontent.com/Water-Works-Development-Agency-in-Kenya/Central-Rift-Valley/main/images/Narok.png',
             description: 'NAROK: The project involved Equipping for 3No boreholes complete. Construction of civil worksis Ongoing, Project Status; -EorEmaiyan – 98%, EorEkule- 100% and operational. Kishermoruak -100% and operational',
             location: {
                 center: [35.86892, -1.08991],
