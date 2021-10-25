@@ -652,9 +652,9 @@ var config = {
             id: '19',
             alignment: 'center',
             hidden: false,
-            title: 'Water Projects',
-            image: './path/to/image/source.png',
-            description: 'Improved an overall aceess to drinking water and sewerage',
+            title: 'Water and Sewerage Projects',
+            image: 'https://raw.githubusercontent.com/Water-Works-Development-Agency-in-Kenya/Central-Rift-Valley/main/images/watermain.png',
+            description: 'Improved an overall aceess to drinking water and sanitation',
             location: {
                 center: [35.529324, -0.42975],
                 zoom: 8.5,
@@ -673,7 +673,7 @@ var config = {
             hidden: false,
             title: 'Thank you CRVWWDA',
             image: './path/to/image/source.png',
-            description: 'For the good work that CRVWWDA is doiong to ensure water and sanitation services are availed to the community of Kenyans',
+            description: 'For the good work that CRVWWDA you are doiong to ensure water and sanitation services are availed to the community of Kenyans',
             location: {
                 center: [35.529324, -0.42975],
                 zoom: 8.5,
