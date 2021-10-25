@@ -671,9 +671,9 @@ var config = {
             id: '19',
             alignment: 'center',
             hidden: false,
-            title: 'Thank you CRVWWDA',
-            image: './path/to/image/source.png',
-            description: 'For the good work that CRVWWDA you are doiong to ensure water and sanitation services are availed to the community of Kenyans',
+            title: 'Central Rift Valley Water Works Development Agency',
+            //image: './path/to/image/source.png',
+            description: 'TThnk you for the good work CRVWWDA you are doiong to ensure water and sanitation services are availed to the Community of Central Rift valley, Kenyans',
             location: {
                 center: [35.529324, -0.42975],
                 zoom: 8.5,
