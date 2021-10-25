@@ -654,7 +654,7 @@ var config = {
             hidden: false,
             title: 'Water and Sewerage Projects',
             image: 'https://raw.githubusercontent.com/Water-Works-Development-Agency-in-Kenya/Central-Rift-Valley/main/images/watermain.png',
-            description: 'Improved an overall aceess to drinking water and sanitation',
+            description: 'For improved aceess to drinking water and sanitation',
             location: {
                 center: [35.529324, -0.42975],
                 zoom: 8.5,
