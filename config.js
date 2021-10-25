@@ -9,7 +9,7 @@ var config = {
     title: 'Project in kenya.',
     subtitle: 'Under the Central Rift Valley Water Works Agency (CRVWWA)',
     byline: 'By Geoffrey Kirui, GIS For Water and Sanitation',
-    footer: 'Source: source https://www.crvwwda.go.ke/. This information was gathered from the intenet for the purpose of testing story maps with mapbox. GIS For Water and Sanitation is not liable for misrepresentation whatsoever.',
+    footer: 'Source of content: https://www.crvwwda.go.ke/. Story Map by Geoffrey Kirui, the lead consultant at <a href="https://icongeospatial.odoo.com/">GIS For Water and Sanitation. This information was gathered from the intenet for the purpose of testing story maps with mapbox. GIS For Water and Sanitation is not liable for misrepresentation whatsoever.',
     chapters: [
         {
             id: '1',
